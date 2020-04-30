@@ -1,5 +1,5 @@
-import React from "./node_modules/react";
-import { FontAwesomeIcon } from "./node_modules/@fortawesome/react-fontawesome";
+import React from "react";
+import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 
 const PortfolioSidebarList = (props) => {
   const portfolioList = props.data.map((portfolioItem) => {

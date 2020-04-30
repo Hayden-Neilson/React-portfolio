@@ -1,6 +1,6 @@
-import React, { Component } from "./node_modules/react";
-import axios from "./node_modules/axios";
-import DropzoneComponent from "./node_modules/react-dropzone-component";
+import React, { Component } from "react";
+import axios from "axios";
+import DropzoneComponent from "react-dropzone-component";
 
 import "../../../node_modules/react-dropzone-component/styles/filepicker.css";
 import "../../../node_modules/dropzone/dist/min/dropzone.min.css";
